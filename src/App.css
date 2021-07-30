@@ -1,3 +1,9 @@
 * {
     margin: 0;
 }
+
+.app__middle {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
